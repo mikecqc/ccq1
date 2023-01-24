@@ -69,7 +69,7 @@ const IndexPage = () => (
               </p>
             </div>
           </div>
-        </div>
+        </div> 
 
         <div className="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div className="col-lg-6">
@@ -79,10 +79,10 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 className="text-white">Misty</h4>
+                  <h4 className="text-white">Residential</h4>
                   <p className="mb-0 text-white-50">
-                    An example of where you can put an image of a project, or
-                    anything else, along with a description.
+                    Delivers quality with every project, small development or bespoke 
+                    construction work that involves complex engineering and finishes of the highest quality.
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
@@ -99,7 +99,7 @@ const IndexPage = () => (
             <div className="bg-black text-center h-100 project">
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 className="text-white">Mountains</h4>
+                  <h4 className="text-white">Commercial</h4>
                   <p className="mb-0 text-white-50">
                     Another example of a project with its respective
                     description. These sections work well responsively as well,
