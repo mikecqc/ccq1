@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/chiswick-quay-contracts/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'CQC',
-  subHeading: 'Chiswick Quay Contracts. We  `,
+  subHeading: 'Chiswick Quay Contracts. Quality Building,
 
   // social
   socialLinks: [
