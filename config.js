@@ -7,21 +7,34 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/chiswick-quay-contracts/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'CQC',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  subHeading: 'Chiswick Quay Contracts. We  `,
 
   // social
   socialLinks: [
     {
-      icon: 'fa-at',
-      name: 'Email',
-      email: 'enquiries@cqc.ltd',
+      icon: 'fa-github',
+      name: 'Github',
+      url: 'https://github.com/mikecqc',
     },
     {
-      icon: 'fa-phone',
-      name: 'Phone',
-      phone: '000-00000',
+      icon: 'fa-linkedin-in',
+      name: 'Linkedin',
+      url: 'https://uk.linkedin.com/in/mike-ewing-a82ba141',
+    },
+    {
+      icon: 'fa-twitter',
+      name: 'Twitter',
+      url: 'https://twitter.com/quintinbc',
+    },
+    {
+      icon: 'fa-facebook-f',
+      name: 'Facebook',
+      url: 'https://facebook.com',
     },
   ],
+  email: 'mike@cqc.ltd',
+  phone: '07747692619',
+  address: 'Chiswick Quay',
 };
